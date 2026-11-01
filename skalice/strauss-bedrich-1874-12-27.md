@@ -24,7 +24,7 @@
 🟥 Otto Strauss (1909-11-29 Skalice - 1943 Osvětim, PL) · Ck, Cr · [PT](https://www.pamatnik-terezin.cz/vezen/te-straus-ota) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/128188-ota-straus/) · [AA](https://collections.arolsen-archives.org/en/document/5101505) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=14830)  
   
   
-||||||||  
+||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
 | Aw | 1942-05-22 | Třebíč | Terezín | 651 | [ITI](https://www.holocaust.cz/transport/110-aw-trebic-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/7891140) |  
 | Az | 1942-05-25 | Terezín | Lublin, PL | 1000 | [ITI](https://www.holocaust.cz/transport/17-az-terezin-lublin/) | [YV](https://collections.yadvashem.org/en/deportations/5091991) |  
