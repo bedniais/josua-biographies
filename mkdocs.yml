@@ -3,6 +3,7 @@ site_url: https://bedniais.github.io/josua-biographies/
 
 theme:
   name: material
+  features: []
 
 plugins:
   - search
