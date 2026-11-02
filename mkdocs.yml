@@ -1,7 +1,5 @@
 site_name: Josua Biographies
 
-use_directory_urls: true
-
 theme:
   name: material
 
