@@ -1,7 +1,12 @@
 site_name: Josua Biographies
 
-nav:
-  - Home: index.md
+use_directory_urls: true
 
 theme:
   name: material
+
+plugins:
+  - search
+
+repo_url: https://github.com/bedniais/josua-biographies
+repo_name: GitHub
