@@ -1,8 +1,7 @@
+⬜ Adolf Strauss (1843 Volanice - 1907) · Miroslav (14)  
+⬜ Marie Straussová, roz. Kohnová (1840 - 1916) · Miroslav (13)  
   
-⬜ Adolf Strauss (1843 Volanice - 1907) · Miroslav  (14)  
-⬜ Marie Straussová, roz. Kohnová (1840 - 1916) · Miroslav  (13)  
-  
-⬜ Siegfried Strauss (1872 Ladná - 1900) · Miroslav  (5)  
+⬜ Siegfried Strauss (1872 Ladná - 1900) · Miroslav (5)  
 🟥 Františka Straussová, roz. Eisnerová (1870-01-23 Vídeň, AT - treblinka) · Aw, Bv · [PT](https://www.pamatnik-terezin.cz/vezen/te-straussova-frantiska) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/128136-frantiska-straussova/) · [AA](https://collections.arolsen-archives.org/en/document/5101256) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=15802)  
   
 🟥 Bedřich Strauss (1874-12-27 Ladná - 1942 Treblinka, PL) · [CEN1921](https://www.mza.cz/scitacioperaty/digisada/detail/4146?image=226207010-000461-001777-000588-000464-01-ZN0206-01860.jp2) · Aw, Bw · [PT](https://www.pamatnik-terezin.cz/vezen/te-strauss-bedrich) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/128124-bedrich-strauss/) · [AA](https://collections.arolsen-archives.org/en/document/5101185) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=36521)  
@@ -24,7 +23,7 @@
 🟥 Otto Strauss (1909-11-29 Skalice - 1943 Osvětim, PL) · Ck, Cr · [PT](https://www.pamatnik-terezin.cz/vezen/te-straus-ota) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/128188-ota-straus/) · [AA](https://collections.arolsen-archives.org/en/document/5101505) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=14830)  
   
   
-||||||||  
+||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
 | Aw | 1942-05-22 | Třebíč | Terezín | 651 | [ITI](https://www.holocaust.cz/transport/110-aw-trebic-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/7891140) |  
 | Az | 1942-05-25 | Terezín | Lublin, PL | 1000 | [ITI](https://www.holocaust.cz/transport/17-az-terezin-lublin/) | [YV](https://collections.yadvashem.org/en/deportations/5091991) |  
