@@ -1,13 +1,7 @@
-site_name: Josua Biographies
+site_name: Josua
 
 theme:
   name: material
 
 extra_css:
   - stylesheets/extra.css
-
-plugins:
-  - search
-
-repo_url: https://github.com/bedniais/josua-biographies
-repo_name: GitHub
