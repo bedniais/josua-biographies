@@ -9,6 +9,7 @@
 - [Eisner, Leopold (1837)](bohutice/eisner-leopold-1837.md)
 - [Eisnerová, Bertha (1839 Osoblaha)](bohutice/eisner-leopold-1837.md)
 
+
 - [Steiner, Alfred (1901 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
 - [Steiner, Jindřich (1905 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
 - [Steiner, Josef (1859 Enzersdorf, AT)](bohutice/steiner-josef-1859-09-17.md)
@@ -45,6 +46,7 @@
 - [Straussová, Marie (1911 Rosice)](skalice/strauss-bedrich-1874-12-27.md)
 - [Straussová, Regina (1877 Chuchel)](skalice/strauss-bedrich-1874-12-27.md)
 
+
 - [Ševčík, Jindřich (1900 Polička)](skalice/strauss-bedrich-1874-12-27.md)
 - [Ševčíková, Alžběta (1905 Skalice)](skalice/strauss-bedrich-1874-12-27.md)
 
@@ -53,9 +55,11 @@
 - [Koritschoner, Wilhelm (1887 Vídeň, AT)](troskotovice/weiss-oskar-1893-01-12.md)
 - [Koritschonerová, Hedwig (1891 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
 
+
 - [Matzner, Fritz (1914 Vídeň, AT)](troskotovice/weiss-oskar-1893-01-12.md)
 - [Matzner, Maxim (1878 Jedľové Kostoľany)](troskotovice/weiss-oskar-1893-01-12.md)
 - [Matznerová, Stefanie (1889 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
+
 
 - [Weiss, Adolf (1857 Jiřice u Miroslavi)](troskotovice/weiss-oskar-1893-01-12.md)
 - [Weiss, Oskar (1893 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
