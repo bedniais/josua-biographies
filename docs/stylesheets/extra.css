@@ -2,6 +2,9 @@
     display: none;
 }
 
-element.style {
-    background-image: url(https://duyn491kcolsw.cloudfront.net/files/21/210/210t7j.png?ph=c9096e6cbe);
+.md-container {
+    background-image: url("https://duyn491kcolsw.cloudfront.net/files/21/210/210t7j.png?ph=c9096e6cbe");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
