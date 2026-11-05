@@ -3,6 +3,9 @@ site_name: Josua Biographies
 theme:
   name: material
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search
 
