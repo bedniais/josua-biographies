@@ -1,7 +1,4 @@
 site_name: Josua
 
-theme:
-  name: material
-
 extra_css:
-  - stylesheets/extra.css
+  - docs/stylesheets/extra.css
