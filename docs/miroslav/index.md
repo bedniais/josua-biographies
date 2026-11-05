@@ -1,0 +1,2 @@
+- [Eisner, Leopold (1837 Miroslav)](eisner-leopold-1837-07-28.md)
+- [Eisnerová, Fanni (1837)](eisner-leopold-1837-07-28.md)

@@ -1,0 +1,65 @@
+# Index
+
+- [Bohutice](#bohutice)
+- [Miroslav](#miroslav)
+- [Skalice](#skalice)
+- [Troskotovice](#troskotovice)
+
+## Bohutice
+- [Eisner, Leopold (1837)](bohutice/eisner-leopold-1837.md)
+- [Eisnerová, Bertha (1839 Osoblaha)](bohutice/eisner-leopold-1837.md)
+
+- [Steiner, Alfred (1901 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steiner, Jindřich (1905 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steiner, Josef (1859 Enzersdorf, AT)](bohutice/steiner-josef-1859-09-17.md)
+- [Steiner, Josef (1937)](bohutice/steiner-josef-1859-09-17.md)
+- [Steiner, Karel (1900 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steiner, Ludvík (1896 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Amalie (1891 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Anna (1898 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Charlotta (1907 Golčův Jeníkov)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Eliška (1907 Plzeň)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Kateřina (1866 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Leopoldina (1895 Bohutice)](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Olga](bohutice/steiner-josef-1859-09-17.md)
+- [Steinerová, Ruth (1933 Praha)](bohutice/steiner-josef-1859-09-17.md)
+
+## Miroslav
+- [Eisner, Leopold (1837 Miroslav)](miroslav/eisner-leopold-1837-07-28.md)
+- [Eisnerová, Fanni (1837)](miroslav/eisner-leopold-1837-07-28.md)
+
+## Skalice
+- [Strauss, Adolf (1843 Volanice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Bedřich (1874 Ladná)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Gustav (1908 Skalice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Gustav (1931 Dolní Kounice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Jindřich (1934)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Milan (1937 Praha)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Ota (1949)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Otto (1909 Skalice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Rudolf (1907 Skalice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Strauss, Siegfried (1872 Ladná)](skalice/strauss-bedrich-1874-12-27.md)
+- [Straussová, Františka (1870 Vídeň, AT)](skalice/strauss-bedrich-1874-12-27.md)
+- [Straussová, Marie (1840)](skalice/strauss-bedrich-1874-12-27.md)
+- [Straussová, Marie (1911 Hvožďany)](skalice/strauss-bedrich-1874-12-27.md)
+- [Straussová, Marie (1911 Rosice)](skalice/strauss-bedrich-1874-12-27.md)
+- [Straussová, Regina (1877 Chuchel)](skalice/strauss-bedrich-1874-12-27.md)
+
+- [Ševčík, Jindřich (1900 Polička)](skalice/strauss-bedrich-1874-12-27.md)
+- [Ševčíková, Alžběta (1905 Skalice)](skalice/strauss-bedrich-1874-12-27.md)
+
+## Troskotovice
+- [Koritschoner, Paul Herbert (1922 Vídeň, AT)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Koritschoner, Wilhelm (1887 Vídeň, AT)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Koritschonerová, Hedwig (1891 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
+
+- [Matzner, Fritz (1914 Vídeň, AT)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Matzner, Maxim (1878 Jedľové Kostoľany)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Matznerová, Stefanie (1889 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
+
+- [Weiss, Adolf (1857 Jiřice u Miroslavi)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Weiss, Oskar (1893 Troskotovice)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Weissová, Hermína (1902 Znojmo)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Weissová, Jana (1928)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Weissová, Marie (1855 Strachotice)](troskotovice/weiss-oskar-1893-01-12.md)
+- [Weissová, Ruth (1930)](troskotovice/weiss-oskar-1893-01-12.md)
