@@ -13,6 +13,5 @@
 - [Straussová, Marie (1911 Hvožďany)](strauss-bedrich-1874-12-27.md)
 - [Straussová, Marie (1911 Rosice)](strauss-bedrich-1874-12-27.md)
 - [Straussová, Regina (1877 Chuchel)](strauss-bedrich-1874-12-27.md)
-
 - [Ševčík, Jindřich (1900 Polička)](strauss-bedrich-1874-12-27.md)
 - [Ševčíková, Alžběta (1905 Skalice)](strauss-bedrich-1874-12-27.md)

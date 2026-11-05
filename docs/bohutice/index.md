@@ -1,6 +1,5 @@
 - [Eisner, Leopold (1837)](eisner-leopold-1837.md)
 - [Eisnerová, Bertha (1839 Osoblaha)](eisner-leopold-1837.md)
-
 - [Steiner, Alfred (1901 Bohutice)](steiner-josef-1859-09-17.md)
 - [Steiner, Jindřich (1905 Bohutice)](steiner-josef-1859-09-17.md)
 - [Steiner, Josef (1859 Enzersdorf, AT)](steiner-josef-1859-09-17.md)
