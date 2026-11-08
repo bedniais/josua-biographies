@@ -1,4 +1,4 @@
-🟥 Jindřiška Rattingerová (1863-0830 Český Rudolec – treblinka) · Ac, Bv · [PT](https://www.pamatnik-terezin.cz/vezen/te-rattingerova-jindriska) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/116525-jindriska-rattingerova/) · [AA](https://collections.arolsen-archives.org/en/document/5110306) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=61560)  
+🟥 Jindřiška Rattingerová (1863-08-30 Český Rudolec – Treblinka, PL) · Ac, Bv · [PT](https://www.pamatnik-terezin.cz/vezen/te-rattingerova-jindriska) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/116525-jindriska-rattingerova/) · [AA](https://collections.arolsen-archives.org/en/document/5110306) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=61560)  
   
   
 ||||||ITI|YV|  
