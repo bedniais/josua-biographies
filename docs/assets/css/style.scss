@@ -13,27 +13,32 @@
 body {
   background-image: url("https://duyn491kcolsw.cloudfront.net/files/21/210/210t7j.png?ph=c9096e6cbe");
   background-repeat: repeat;
-  color: #000000;
+  color: #141b1e;
   font-family: sans-serif;
 }
 
 .main-content {
   max-width: 760px;
   padding: 3rem 2rem;
-  color: #000000;
+  color: #141b1e;
 }
 
 .main-content h1 {
   font-weight: 800;
-  color: #000000;
+  color: #141b1e;
 }
 
 .main-content h2 {
   font-weight: 600;
-  color: #000000;
+  color: #141b1e;
 }
 
 .main-content a {
   font-weight: 400;
-  color: #000000;
+  color: #141b1e;
+  text-decoration: underline;
+}
+
+.main-content table {
+  margin: 2rem 0;
 }
