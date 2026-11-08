@@ -6,6 +6,10 @@
   display: none;
 }
 
+.site-footer {
+  display: none;
+}
+
 body {
   background-image: url("https://duyn491kcolsw.cloudfront.net/files/21/210/210t7j.png?ph=c9096e6cbe");
   background-repeat: repeat;
@@ -16,16 +20,20 @@ body {
 .main-content {
   max-width: 760px;
   padding: 3rem 2rem;
+  color: #000000;
 }
 
 .main-content h1 {
   font-weight: 800;
+  color: #000000;
 }
 
 .main-content h2 {
   font-weight: 600;
+  color: #000000;
 }
 
 .main-content a {
   font-weight: 400;
+  color: #000000;
 }
