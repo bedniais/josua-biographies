@@ -1,4 +1,3 @@
-site_name: Josua
-
-extra_css:
-  - docs/stylesheets/extra.css
+title: Josua Biographies
+description: Documentation and biographies collection.
+theme: jekyll-theme-cayman
