@@ -1,0 +1,37 @@
+---
+---
+@import "{{ site.theme }}";
+
+.page-header {
+  display: none;
+}
+
+body {
+  background-image: url("https://duyn491kcolsw.cloudfront.net/files/21/210/210t7j.png?ph=c9096e6cbe");
+  background-repeat: repeat;
+  color: #555;
+}
+
+.main-content {
+  max-width: 760px;
+  padding: 3rem 2rem;
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.main-content h1 {
+  margin: 0 0 2.5rem;
+  color: #292929;
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+.main-content h2,
+.main-content h3 {
+  color: #292929;
+}
+
+.main-content a {
+  color: #6b8192;
+}
