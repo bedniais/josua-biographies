@@ -1,2 +1,3 @@
 - [Eisner, Leopold (1837 Miroslav)](eisner-leopold-1837-07-28.md)
 - [Eisnerová, Fanni (1837)](eisner-leopold-1837-07-28.md)
+- [Rattingerová, Jindřiška (1863 Český Rudolec)](rattingerova_jindriska_1863-08-30.md)

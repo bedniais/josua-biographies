@@ -26,6 +26,7 @@
 ## Miroslav
 - [Eisner, Leopold (1837 Miroslav)](miroslav/eisner-leopold-1837-07-28.md)
 - [Eisnerová, Fanni (1837)](miroslav/eisner-leopold-1837-07-28.md)
+- [Rattingerová, Jindřiška (1863 Český Rudolec)](miroslav/rattingerova_jindriska_1863-08-30.md)
 
 ## Skalice
 - [Strauss, Adolf (1843 Volanice)](skalice/strauss-bedrich-1874-12-27.md)
