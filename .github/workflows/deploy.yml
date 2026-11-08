@@ -24,8 +24,11 @@ jobs:
         uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v6
-      - name: Prepare Jekyll config
-        run: cp _config.yml docs/_config.yml
+      - name: Prepare Jekyll sources
+        run: |
+          cp _config.yml docs/_config.yml
+          mkdir -p docs/assets/css
+          cp assets/css/style.scss docs/assets/css/style.scss
       - name: Build site
         uses: actions/jekyll-build-pages@v1
         with:
