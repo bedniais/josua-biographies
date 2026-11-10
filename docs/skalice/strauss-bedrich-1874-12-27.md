@@ -23,6 +23,27 @@
 🟥 Otto Strauss (1909-11-29 Skalice – 1943 Osvětim, PL) · Ck, Cr · [PT](https://www.pamatnik-terezin.cz/vezen/te-straus-ota) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/128188-ota-straus/) · [AA](https://collections.arolsen-archives.org/en/document/5101505) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=14830)  
   
   
+## Theresienstadt stay analysis
+
+| Date | Symbol | Person | Transport | Days of stay |
+| --- | --- | --- | --- | ---: |
+| 1942-05-22 | → | Bedřich Strauss | Aw |  |
+|  | → | Františka Straussová, roz. Eisnerová | Aw |  |
+|  | → | Alžběta Ševčíková, roz. Straussová | Aw |  |
+| 1942-05-25 | • | Bedřich Strauss |  |  |
+|  | • | Františka Straussová, roz. Eisnerová |  |  |
+|  | ← | Alžběta Ševčíková, roz. Straussová | Az | 3 |
+| 1942-10-15 | • | Bedřich Strauss |  |  |
+|  | ← | Františka Straussová, roz. Eisnerová | Bv | 146 |
+| 1942-10-19 | ← | Bedřich Strauss | Bw | 150 |
+| 1942-12-22 | → | Otto Strauss | Ck |  |
+| 1943-01-23 | ← | Otto Strauss | Cr | 32 |
+| 1943-09-14 | → | Rudolf Strauss | Dn |  |
+| 1944-09-29 | ← | Rudolf Strauss | El | 381 |
+| 1945-02-11 | → | Gustav Strauss | AE3 |  |
+| 1945-05-08 | ← | Gustav Strauss | liberation | 86 |  
+  
+  
 ||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
 | Aw | 1942-05-22 | Třebíč | Terezín | 651 | [ITI](https://www.holocaust.cz/transport/110-aw-trebic-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/7891140) |  

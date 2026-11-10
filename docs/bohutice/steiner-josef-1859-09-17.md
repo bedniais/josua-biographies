@@ -18,6 +18,36 @@
 ⬜ Jindřich Steiner (1905 Bohutice – )  
   
   
+## Theresienstadt stay analysis
+
+| Date | Symbol | Person | Transport | Days of stay |
+| --- | --- | --- | --- | ---: |
+| 1942-01-26 | → | Karel Steiner | T |  |
+|  | → | Eliška Steinerová, roz. Schwarzkopfová | T |  |
+| 1942-05-22 | → | Anna Steinerová | Aw |  |
+|  | → | Kateřina Steinerová, roz. Herzogová | Aw |  |
+|  | • | Karel Steiner |  |  |
+|  | • | Eliška Steinerová, roz. Schwarzkopfová |  |  |
+| 1942-06-30 | → | Ludvík Steiner | AAg |  |
+|  | • | Karel Steiner |  |  |
+|  | • | Anna Steinerová |  |  |
+|  | • | Eliška Steinerová, roz. Schwarzkopfová |  |  |
+|  | • | Kateřina Steinerová, roz. Herzogová |  |  |
+| 1942-07-14 | • | Karel Steiner |  |  |
+|  | • | Anna Steinerová |  |  |
+|  | • | Eliška Steinerová, roz. Schwarzkopfová |  |  |
+|  | • | Kateřina Steinerová, roz. Herzogová |  |  |
+|  | ← | Ludvík Steiner | AAx | 14 |
+| 1943-04-14 | • | Karel Steiner |  |  |
+|  | • | Anna Steinerová |  |  |
+|  | • | Eliška Steinerová, roz. Schwarzkopfová |  |  |
+|  | ← | Kateřina Steinerová, roz. Herzogová | death | 327 |
+| 1944-10-23 | • | Anna Steinerová |  |  |
+|  | ← | Karel Steiner | Et | 1001 |
+|  | ← | Eliška Steinerová, roz. Schwarzkopfová | Et | 1001 |
+| 1945-05-08 | ← | Anna Steinerová | liberation | 1082 |  
+  
+  
 ||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
 | T | 1942-01-26 | Plzeň | Terezín | 609 | [ITI](https://www.holocaust.cz/transport/510-t-plzen-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/5092351) |  

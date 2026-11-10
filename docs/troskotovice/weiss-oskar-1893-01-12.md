@@ -15,6 +15,20 @@
 🟥 Ruth Weissová (1930-06-22 – 1942 neznámé místo) · AAc, AAi · [PT](https://www.pamatnik-terezin.cz/vezen/te-weissova-ruth) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/133542-ruth-weissova/) · [AA](https://collections.arolsen-archives.org/en/document/5131059) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=64055)  
   
   
+## Theresienstadt stay analysis
+
+| Date | Symbol | Person | Transport | Days of stay |
+| --- | --- | --- | --- | ---: |
+| 1942-06-09 | → | Oskar Weiss | AAc |  |
+|  | → | Hermína Weissová, roz. Šmolková | AAc |  |
+|  | → | Jana Weissová | AAc |  |
+|  | → | Ruth Weissová | AAc |  |
+| 1942-06-13 | ← | Oskar Weiss | AAi | 4 |
+|  | ← | Hermína Weissová, roz. Šmolková | AAi | 4 |
+|  | ← | Jana Weissová | AAi | 4 |
+|  | ← | Ruth Weissová | AAi | 4 |  
+  
+  
 ||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
 | AAc | 1942-06-09 | Kolín | Terezín | 725 | [ITI](https://www.holocaust.cz/transport/69-aac-kolin-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/5091911) |  
