@@ -4,3 +4,5 @@
 - [Holzerová, Jana (1926)](singer-izak-1862-08-03.md)
 - [Singer, Izak (1862 Javorov, UA)](singer-izak-1862-08-03.md)
 - [Singerová, Rosa (1859 Moravský Krumlov)](singer-izak-1862-08-03.md)
+- [Strammer, Jechiel (1879 Javorov, UA)](singer-izak-1862-08-03.md)
+- [Strammerová, Chane (1885 Javorov, UA)](singer-izak-1862-08-03.md)

@@ -42,6 +42,8 @@
 - [Holzerová, Jana (1926)](pravice/singer-izak-1862-08-03.md)
 - [Singer, Izak (1862 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
 - [Singerová, Rosa (1859 Moravský Krumlov)](pravice/singer-izak-1862-08-03.md)
+- [Strammer, Jechiel (1879 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
+- [Strammerová, Chane (1885 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
 
 ## Skalice
 - [Strauss, Adolf (1843 Volanice)](skalice/strauss-bedrich-1874-12-27.md)

@@ -31,7 +31,7 @@
   
 ||||||ITI|YV|  
 | - | - | - | - | -: | - | - |  
-| AAc | 1942-06-09 | Kolín | Terezín | 725 | [ITI](https://www.holocaust.cz/transport/69-aac-kolin-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/5091911) |  
+| AAc | 1942-06-09 | kolin | Terezín | 725 | [ITI](https://www.holocaust.cz/transport/69-aac-kolin-terezin/) | [YV](https://collections.yadvashem.org/en/deportations/5091911) |  
 | AAi | 1942-06-13 | Terezín | neznámé místo |  | [ITI](https://www.holocaust.cz/transport/1-aai-terezin-nezname-misto/) | [YV](https://collections.yadvashem.org/en/deportations/5091917) |  
   
   

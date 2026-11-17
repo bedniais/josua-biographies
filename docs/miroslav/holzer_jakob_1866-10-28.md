@@ -2,7 +2,7 @@
 ⬜ Rosa Holzerová, roz. Schlesingerová (1871 Jasy, RO – )  
   
 🟩 Arnošt Holzer (1896 Miroslav – 1984 Londýn, UK)  
-🟥 Erna Holzerová, roz. Singerová (1901-03-30 Pravice – 1942 Riga, LV) · K, P · [PT](https://www.pamatnik-terezin.cz/vezen/te-holzerova-erna) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/95160-erna-holzerova/) · [AA](https://collections.arolsen-archives.org/en/document/5049360) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=8469)  
+🟥 Erna Holzerová, roz. Singerová (1901-03-30 Pravice – 1942 Riga, LV) · [CEN1921](https://www.mza.cz/scitacioperaty/digisada/detail/4038?image=226207010-000872-001811-000172-001152-02-ZN0565-00200.jp2) · K, P · [PT](https://www.pamatnik-terezin.cz/vezen/te-holzerova-erna) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/95160-erna-holzerova/) · [AA](https://collections.arolsen-archives.org/en/document/5049360) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=8469)  
 🟥 Jana Holzerová (1926-02-20 – 1942 Riga, LV) · K, P · [PT](https://www.pamatnik-terezin.cz/vezen/te-holzerova-jana-2) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/95182-jana-holzerova/) · [AA](https://collections.arolsen-archives.org/en/document/5049397) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=8465)  
 🟥 Kurt Holzer (1929-08-31 – 1942 Riga, LV) · K, P · [PT](https://www.pamatnik-terezin.cz/vezen/te-holzer-kurt-2) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/95193-kurt-holzer/) · [AA](https://collections.arolsen-archives.org/en/document/5049427) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=8474)  
   
