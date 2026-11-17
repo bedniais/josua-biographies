@@ -7,7 +7,7 @@
   
 ⬜ Hedwig Koritschonerová (1891 Troskotovice – )  
 ⬜ Wilhelm Koritschoner (1887 Vídeň, AT – )  
-🟩 Paul Herbert Koritschoner (1922 Vídeň, AT – 2009 Izrael)  
+🟩 Paul Herbert Koritschoner (1922 Vídeň, AT – 2009 Izrael, IL)  
   
 🟥 Oskar Weiss (1893-01-12 Troskotovice – 1942-08-29 Majdanek) · AAc, AAi · [PT](https://www.pamatnik-terezin.cz/vezen/te-weiss-oskar-6) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/133486-oskar-weiss/) · [AA](https://collections.arolsen-archives.org/en/document/5130908) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=64058)  
 🟥 Hermína Weissová, roz. Šmolková (1902-05-19 Znojmo – 1942 neznámé místo) · AAc, AAi · [PT](https://www.pamatnik-terezin.cz/vezen/te-weissova-hermina-5) · [ITI](https://www.holocaust.cz/databaze-obeti/obet/133326-hermina-weissova/) · [AA](https://collections.arolsen-archives.org/en/document/5130458) · [PI](https://pinkas.jewishmuseum.cz/cs/vyhledavani/detail?victim_id=64058)  
@@ -38,7 +38,7 @@
 | česky | Deutsch | English |  
 | ----- | ------- | ------- |  
 | Golčův Jeníkov | Goltsch-Jenikau | Golčův Jeníkov |  
-| Izrael | Israel | Israel |  
+| Izrael, IL | Israel, IL | Israel, IL |  
 | Jedľové Kostoľany | Jedľové Kostoľany | Jedľové Kostoľany |  
 | Jiřice u Miroslavi | Irritz | Jiřice u Miroslavi |  
 | Miroslav | Misslitz | Miroslav |  

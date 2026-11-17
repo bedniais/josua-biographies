@@ -1,0 +1,6 @@
+- [Holzer, Arnošt (1896 Miroslav)](singer-izak-1862-08-03.md)
+- [Holzer, Kurt (1929)](singer-izak-1862-08-03.md)
+- [Holzerová, Erna (1901 Pravice)](singer-izak-1862-08-03.md)
+- [Holzerová, Jana (1926)](singer-izak-1862-08-03.md)
+- [Singer, Izak (1862 Javorov, UA)](singer-izak-1862-08-03.md)
+- [Singerová, Rosa (1859 Moravský Krumlov)](singer-izak-1862-08-03.md)

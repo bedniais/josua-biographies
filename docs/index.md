@@ -2,6 +2,7 @@
 
 - [Bohutice](#bohutice)
 - [Miroslav](#miroslav)
+- [Pravice](#pravice)
 - [Skalice](#skalice)
 - [Troskotovice](#troskotovice)
 
@@ -26,7 +27,21 @@
 ## Miroslav
 - [Eisner, Leopold (1837 Miroslav)](miroslav/eisner-leopold-1837-07-28.md)
 - [Eisnerová, Fanni (1837)](miroslav/eisner-leopold-1837-07-28.md)
+- [Holzer, Arnošt (1896 Miroslav)](miroslav/holzer_jakob_1866-10-28.md)
+- [Holzer, Jakob (1866 Kobersdorf, AT)](miroslav/holzer_jakob_1866-10-28.md)
+- [Holzer, Kurt (1929)](miroslav/holzer_jakob_1866-10-28.md)
+- [Holzerová, Erna (1901 Pravice)](miroslav/holzer_jakob_1866-10-28.md)
+- [Holzerová, Jana (1926)](miroslav/holzer_jakob_1866-10-28.md)
+- [Holzerová, Rosa (1871 Jasy, RO)](miroslav/holzer_jakob_1866-10-28.md)
 - [Rattingerová, Jindřiška (1863 Český Rudolec)](miroslav/rattingerova_jindriska_1863-08-30.md)
+
+## Pravice
+- [Holzer, Arnošt (1896 Miroslav)](pravice/singer-izak-1862-08-03.md)
+- [Holzer, Kurt (1929)](pravice/singer-izak-1862-08-03.md)
+- [Holzerová, Erna (1901 Pravice)](pravice/singer-izak-1862-08-03.md)
+- [Holzerová, Jana (1926)](pravice/singer-izak-1862-08-03.md)
+- [Singer, Izak (1862 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
+- [Singerová, Rosa (1859 Moravský Krumlov)](pravice/singer-izak-1862-08-03.md)
 
 ## Skalice
 - [Strauss, Adolf (1843 Volanice)](skalice/strauss-bedrich-1874-12-27.md)
