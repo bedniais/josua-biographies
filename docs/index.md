@@ -1,6 +1,7 @@
 # Index
 
 - [Bohutice](#bohutice)
+- [dolenice](#dolenice)
 - [Miroslav](#miroslav)
 - [Pravice](#pravice)
 - [Skalice](#skalice)
@@ -24,6 +25,10 @@
 - [Steinerová, Olga](bohutice/steiner-josef-1859-09-17.md)
 - [Steinerová, Ruth (1933 Praha)](bohutice/steiner-josef-1859-09-17.md)
 
+## dolenice
+- [Steckerl, Pinkas (1802)](dolenice/steckerl_pinkas_1802-07-10.md)
+- [Steckerlová, Rosa (1815)](dolenice/steckerl_pinkas_1802-07-10.md)
+
 ## Miroslav
 - [Eisner, Leopold (1837 Miroslav)](miroslav/eisner-leopold-1837-07-28.md)
 - [Eisnerová, Fanni (1837)](miroslav/eisner-leopold-1837-07-28.md)
@@ -36,14 +41,20 @@
 - [Rattingerová, Jindřiška (1863 Český Rudolec)](miroslav/rattingerova_jindriska_1863-08-30.md)
 
 ## Pravice
+- [Feger, Bernhard (1896 lvov)](pravice/singer-izak-1862-08-03.md)
+- [Fegerová, Hedwig (1907 Vídeň, AT)](pravice/singer-izak-1862-08-03.md)
+- [Freyler, Adalbert (1898 budapest)](pravice/singer-izak-1862-08-03.md)
 - [Holzer, Arnošt (1896 Miroslav)](pravice/singer-izak-1862-08-03.md)
 - [Holzer, Kurt (1929)](pravice/singer-izak-1862-08-03.md)
 - [Holzerová, Erna (1901 Pravice)](pravice/singer-izak-1862-08-03.md)
 - [Holzerová, Jana (1926)](pravice/singer-izak-1862-08-03.md)
 - [Singer, Izak (1862 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
 - [Singerová, Rosa (1859 Moravský Krumlov)](pravice/singer-izak-1862-08-03.md)
+- [Strammer, Adolf (1912 Vídeň, AT)](pravice/singer-izak-1862-08-03.md)
+- [Strammer, Hugo (1909 Vídeň, AT)](pravice/singer-izak-1862-08-03.md)
 - [Strammer, Jechiel (1879 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
 - [Strammerová, Chane (1885 Javorov, UA)](pravice/singer-izak-1862-08-03.md)
+- [Strammerová, Ella (1910 Vídeň, AT)](pravice/singer-izak-1862-08-03.md)
 
 ## Skalice
 - [Strauss, Adolf (1843 Volanice)](skalice/strauss-bedrich-1874-12-27.md)

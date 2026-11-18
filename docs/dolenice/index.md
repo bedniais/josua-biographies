@@ -1,0 +1,2 @@
+- [Steckerl, Pinkas (1802)](steckerl_pinkas_1802-07-10.md)
+- [Steckerlová, Rosa (1815)](steckerl_pinkas_1802-07-10.md)

@@ -9,6 +9,14 @@
 🟥 Chane Strammerová, roz. Singerová (1885-05-28 Javorov, UA – ) · [CEN1921](https://www.mza.cz/scitacioperaty/digisada/detail/4038?image=226207010-000872-001811-000172-001152-02-ZN0565-00200.jp2) · 19 · [AA](https://collections.arolsen-archives.org/en/document/130501442)  
 🟥 Jechiel Strammer (1879-01-21 Javorov, UA – 1941 lodz) · 9 · [AA](https://collections.arolsen-archives.org/en/document/130501075)  
   
+⬜ Hedwig Fegerová, roz. Strammerová (1907 Vídeň, AT – )  
+⬜ Adalbert Freyler (1898 budapest – )  
+⬜ Bernhard Feger (1896 lvov – )  
+  
+⬜ Hugo Strammer (1909 Vídeň, AT – )  
+⬜ Ella Strammerová (1910 Vídeň, AT – )  
+⬜ Adolf Strammer (1912 Vídeň, AT – )  
+  
   
 ## Theresienstadt stay analysis
 
